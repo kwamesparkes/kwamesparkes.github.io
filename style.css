@@ -12,6 +12,7 @@ main {
 
 main > div {
     display: flex;
+    flex-direction: row;
     border: 1px solid #000;
 }
 
