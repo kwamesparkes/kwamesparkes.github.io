@@ -12,6 +12,7 @@ main {
 
 main > div {
     display: flex;
+    border: 1px solid #000;
 }
 
 #navigate ul {
